@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 3,
+  "builtAt": "2026-05-17T11:36:34.617Z",
+  "bizId": "yewu-yi-clinics",
+  "keyVersion": "v1",
+  "wasmObfuscated": true,
+  "manifest": {
+    "filename": "369cce1a51e8c32af0206018a5f57db0092032bab23dbc3b140e3310f8db444c.enc",
+    "algorithm": "aes-256-gcm",
+    "ivBase64": "By/EkevXB3ha3UPB",
+    "tagBase64": "D+0JN+COyIQrc1ihlopNog==",
+    "ivLen": 12,
+    "tagLen": 16,
+    "plaintextLen": 1491,
+    "ciphertextLen": 1491
+  },
+  "wasm": {
+    "filename": "f02226b2ab4db9364985c979c3e24ed024eecde59baa7c27f1a513dd05595dc0.enc",
+    "algorithm": "aes-256-gcm",
+    "ivBase64": "CN+4pimgItcDO3j9",
+    "tagBase64": "3FKQqD3uyJ4eKbR4cLBR+Q==",
+    "ivLen": 12,
+    "tagLen": 16,
+    "plaintextLen": 29404,
+    "ciphertextLen": 29404
+  },
+  "anchors": [
+    {
+      "index": 2,
+      "filename": "65006b2bee4b2b37104e0ff354858a02b7d82b1ed47a54033e04db3fdfb9beb7.enc"
+    },
+    {
+      "index": 3,
+      "filename": "4650295d1b86b93f652fabe11d32da79b5840c8b27bf28c7d204e9ebc7f552cb.enc"
+    },
+    {
+      "index": 4,
+      "filename": "08a80554ee064aa62bd1c3a7779a81e9618982176f8c422391e7dd512848bece.enc"
+    }
+  ]
+}
